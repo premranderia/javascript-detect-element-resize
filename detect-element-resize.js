@@ -2,7 +2,7 @@
  * Detect Element Resize
  *
  * https://github.com/sdecima/javascript-detect-element-resize
- * Sebastian Decima
+ * Sebastian Decima/Prem Randeria
  *
  * version: 0.5.3
  **/
